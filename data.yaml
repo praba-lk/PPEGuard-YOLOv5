@@ -1,0 +1,13 @@
+names:
+- with_mask
+- without_mask
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: face-mask-detector-duw2l
+  url: https://universe.roboflow.com/ipshita/face-mask-detector-duw2l/dataset/1
+  version: 1
+  workspace: ipshita
+test: ../test/images
+train: ../train/images
+val: ../valid/images
