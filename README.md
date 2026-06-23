@@ -201,7 +201,4 @@ Through this project, the following concepts were applied:
 
 Software Engineer | Cloud & DevOps Enthusiast | AI/ML Practitioner
 
-LinkedIn: Add your profile link here
-
-GitHub: Add your GitHub profile link here
 
